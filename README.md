@@ -1,2 +1,2 @@
 # yolov4
-.weight , .cfg
+weight file, config file
